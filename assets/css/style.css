@@ -1,0 +1,65 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+#cupones h5 {
+    color: #212529;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+#cupones h6 {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.card-text {
+    color: #707070;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.text-end p {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.text-end span {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#suscribir h4 {
+    font-weight: 500;
+    font-size: 21px;
+}
+
+#suscribir input {
+    font-size: 16px;
+    color: #707070;
+    font-weight: 300;
+}
+
+#suscribir button {
+    color: #212529;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+footer {
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+@media (min-width:576px) {
+    .navbar-brand img {
+        width: 100px;
+    }
+
+    footer img {
+        width: 100px;
+    }
+}
